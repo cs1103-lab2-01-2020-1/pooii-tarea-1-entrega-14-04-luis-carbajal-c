@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rcarb/CLionProjects/Ejercicio5/Integer.h
+tipos.h
+C:/Users/rcarb/CLionProjects/Ejercicio5/tipos.h
+
+C:/Users/rcarb/CLionProjects/Ejercicio5/Number.h
+tipos.h
+C:/Users/rcarb/CLionProjects/Ejercicio5/tipos.h
+
+C:/Users/rcarb/CLionProjects/Ejercicio5/main.cpp
+Integer.h
+C:/Users/rcarb/CLionProjects/Ejercicio5/Integer.h
+Number.h
+C:/Users/rcarb/CLionProjects/Ejercicio5/Number.h
+
+C:/Users/rcarb/CLionProjects/Ejercicio5/tipos.h
+iostream
+-
+cmath
+-
+
